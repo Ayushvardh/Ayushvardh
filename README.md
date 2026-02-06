@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 
 ### 👨‍💻 About Me
 
@@ -22,7 +22,7 @@
 - 💡 Exploring **Machine Learning**
 - 🔭 Building real-world projects
 - ⚡ Practicing coding daily on HackerRank
-- 📫 Reach me: **ayushvardhan213@gmail.com** *(edit if needed)*
+- 📫 Reach me: **ayushvardhan213@gmail.com** 
 
 ---
 
