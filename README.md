@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushvardhan213&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ayushvardh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -59,12 +59,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushvardhan213&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushvardhan213&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushvardh&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushvardh&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushvardhan213&theme=dark&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushvardh&theme=dark&hide_border=true" width="90%" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushvardhan213&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushvardh&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
